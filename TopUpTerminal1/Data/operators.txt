@@ -1,0 +1,3 @@
+﻿Kyivstar:067,068
+Vodafone:050,066
+Lifecell:063,073
